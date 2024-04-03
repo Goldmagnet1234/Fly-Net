@@ -1,8 +1,8 @@
-"Visit Fly Net and enjoy it! There are many resources for free download, and practical gadgets are waiting for you here! Ready?Let's roll!"
+“访问飞网，航海享受吧！海量资源免费下载，实用小工具在这里等你！准备好了吗？一起行动吧！”
 ###
-This is a repository for storing Fly Net code and some resources. You can see the source code and some files of Fly Net here.
-If you have any questions,please go to Wiki to view.
-If your question still can't solve,please go to Issues to come up with your questions.We'll receive the question in a week.
-You can also go to Discussions to discuss with people with Fly Net.
-Tip: Please do not change any code and resources in the Fly Net without the permission of the webmaster!
+这是一个用于Fly Net存储代码和一些资源的存储库。你可以在这里看到Fly Net的源代码和一些文件。
+如果您有任何疑问，请前往Wiki查看。
+如果您的问题仍然无法解决，请前往问题提出您的问题。我们将在一周内收到问题。
+您还可以前往讨论区与 Fly Net 的人进行讨论。
+提示：默认站长许可，请勿更改飞网中的任何代码和资源！
 ###
