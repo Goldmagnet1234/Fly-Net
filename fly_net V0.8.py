@@ -4,7 +4,7 @@ import random
 from pydub import AudioSegment
 import pyecharts
 import json
-import math22
+import math
 #首页
 user_name = '未登录'
 with open("data/users.json",'r',encoding='utf-8') as f:
