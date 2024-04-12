@@ -2,3 +2,6 @@ streamlit
 pillow
 random
 pydub
+math
+pyecharts
+json
