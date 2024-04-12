@@ -1,12 +1,12 @@
-“访问飞网，航海享受吧！海量资源免费下载，实用小工具在这里等你！准备好了吗？一起行动吧！”
+"Visit Fly Net and enjoy it! There are massive resources for free download, practical gadgets are waiting for you here! Are you ready? Let's roll!"
 ###
-这是一个用于Fly Net存储代码和一些资源的存储库。你可以在这里看到Fly Net的源代码和一些文件。
+This is a repository for Fly Net storing code and some resources. You can see the Fly Net source code and some resources here.
 ###
-如果您有任何疑问，请前往Wiki查看。
+If you have any questions, please check the Wiki.
 ###
-如果您的问题仍然无法解决，请前往问题提出您的问题。我们将在一周内收到问题。
+If your questions still cannot be solved, please go to Issue and ask your problem. We will receive questions within a week.
 ###
-您还可以前往讨论区与 Fly Net 的人进行讨论。
+You can also go to the discussion area to discuss with people about Fly Net.
 ###
-提示：默认站长许可，请勿更改飞网中的任何代码和资源！
+Tip: Please do not change any code or resources without Webmaster's permission!
 ###
