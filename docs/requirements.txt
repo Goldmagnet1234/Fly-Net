@@ -1,4 +1,0 @@
-streamlit 
-pillow
-random
-pydub
